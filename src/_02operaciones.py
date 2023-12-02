@@ -1,6 +1,6 @@
 # Ejercicio 1: Sumar dos números
 def sumar(a, b):
-    pass
+    return a+b
 
 # Ejercicio 2: Restar dos números
 def restar(a, b):
