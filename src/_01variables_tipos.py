@@ -7,14 +7,14 @@ def obtener_entero():
 # Ejercicio 2: Crear una variable flotante y devolverla
 def obtener_flotante():
     # Escribe tu código aquí
-    pass
+    return 1.1
 
 # Ejercicio 3: Crear una variable de cadena de texto y devolverla
 def obtener_cadena():
     # Escribe tu código aquí
-    pass
+    return "hola"
 
 # Ejercicio 4: Crear una variable booleana y devolverla
 def obtener_booleano():
     # Escribe tu código aquí
-    pass
+    return True
